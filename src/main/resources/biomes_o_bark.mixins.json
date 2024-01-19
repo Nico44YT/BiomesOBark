@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.letscode.biomesobark.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "BiomesOBark.refmap.json",
+  "mixins": [
+    "BarkMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
