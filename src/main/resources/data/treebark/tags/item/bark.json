@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "treebark:fir_bark",
+    "treebark:redwood_bark",
+    "treebark:cherry_bark",
+    "treebark:mahogany_bark",
+    "treebark:jacaranda_bark",
+    "treebark:palm_bark",
+    "treebark:willow_bark",
+    "treebark:dead_bark",
+    "treebark:magic_bark",
+    "treebark:umbran_bark",
+    "treebark:hellbark_bark"
+  ]
+}

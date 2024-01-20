@@ -32,8 +32,8 @@ bin/
 
 # fabric
 
-run/
-
+/run/
+/run-data/
 # java
 
 hs_err_*.log
